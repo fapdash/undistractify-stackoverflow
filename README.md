@@ -1,5 +1,5 @@
 # undistractify-stackoverflow
-Undistractify Stackoverflow, Stackexchange and all network sites
+Undistractify Stackoverflow, Stackexchange, and all network sites
 
 
 Removes distractions from:
