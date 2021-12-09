@@ -1,0 +1,4 @@
+@-moz-document domain("superuser.com"), domain("stackoverflow.com"), domain("stackexchange.com"), domain("serverfault.com"), domain("askubuntu.com"), domain("stackapps.com"), domain("mathoverflow.net"), domain("stackexchange.com") {
+  #hot-network-questions, .module.community-bulletin, module.sidebar-related, #chat-feature, #footer-sites, #left-sidebar.left-sidebar.js-pinned-left-sidebar, #feed-link, #herobox, .s-hero, .ad, .ad-container, .s-sidebarwidget { display: none; }
+  #content { border-left-width: 0 !important; }
+}
