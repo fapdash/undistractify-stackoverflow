@@ -11,6 +11,11 @@ Removes distractions from:
 - stackapps.com
 - mathoverflow.net
 
+## Installation
+
+Installation is recommended via Stylus ([Firefox](https://addons.mozilla.org/de/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)).
+The user style can be installed via [UserStyles.world](https://userstyles.world/style/2305/undistractify-stackoverflow).
+
 ## Attribution
 Based on work by
 - [James Douglas](https://userstyles.org/styles/162902/undistractify-stackoverflow-enchanced-v2)
